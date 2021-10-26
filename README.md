@@ -8,4 +8,5 @@
 - 👨🏻‍🎓 Currently studying at FATEC
 - 🤝🏻 Any help is welcome!
 
+![Jean Carlo Rocha's github stats](https://github-readme-stats.vercel.app/api?username=jjeancarllo&show_icons=true&theme=algolia)
 
