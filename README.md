@@ -3,8 +3,9 @@
 
 💡 Here are some ideas about me:
 
-- 🎯 I’m currently focused on learning HTML, CSS and JavaScript
-- 🙋🏻‍♂️ Available to receive help with Front-end web development
+- 🎯 I’m currently focused on learning more about: HTML, CSS,  JavaScript, Dart and Flutter
+- 🖥️ I'm a trainee in software development at (Focosp) Foco Solution Provider
+- 🙋🏻‍♂️ Available to receive help with software development
 - 🌍 Currently living in São Paulo, Brazil
 - 👨🏻‍🎓 Currently studying at FATEC
 - 🤝🏻 Any help is welcome!
