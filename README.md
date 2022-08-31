@@ -10,9 +10,7 @@
 - 👨🏻‍🎓 Currently studying at FATEC
 - 🤝🏻 Any help is welcome!
 
-![Jean Carlo Rocha's github stats](https://github-readme-stats.vercel.app/api?username=jjeancarllo&show_icons=true&theme=dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeancarllo&layout=compact&theme=dark)](https://github.com/jjeancarllo/github-readme-stats)
+![Jean Carlo Rocha's github stats](https://github-readme-stats.vercel.app/api?username=jjeancarllo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeancarllo&layout=compact&theme=dark)](https://github.com/jjeancarllo/github-readme-stats)
 
 <h3 align="left">Languages and Tools: <img src="https://i.pinimg.com/originals/5d/83/69/5d8369d65e9b8b2987122aac9d5a1e9f.gif" width="30"></h3>
 <p align="left"> 
@@ -23,8 +21,9 @@
   <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 </p>
 <a href="https://flutter.dev/?gclid=Cj0KCQiAosmPBhCPARIsAHOen-PdvWGBVbJ9PFmBBFQi6PMRwJVX-7C7FhGFykUQ5kfc60ajhAH3JioaAu4mEALw_wcB&gclsrc=aw.ds" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width"40" height="40"/> </a>
-  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://pt-br.reactjs.org/docs/getting-started.html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" alt="react-js" width="40" height="40"/> </a> 
+
   
 <h3 align="left">Connect with me:</h3>
 <div>  
