@@ -10,7 +10,7 @@
 - 👨🏻‍🎓 Currently studying at FATEC
 - 🤝🏻 Any help is welcome!
 
-![Jean Carlo Rocha's github stats](https://github-readme-stats.vercel.app/api?username=jjeancarllo&show_icons=true&theme=dark)       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeancarllo&layout=compact&theme=dark)](https://github.com/jjeancarllo/github-readme-stats)
+![Jean Carlo Rocha's github stats](https://github-readme-stats.vercel.app/api?username=jjeancarllo&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jjeancarllo&layout=compact&theme=dark)](https://github.com/jjeancarllo/github-readme-stats)
 
 <h3 align="left">Languages and Tools: <img src="https://i.pinimg.com/originals/5d/83/69/5d8369d65e9b8b2987122aac9d5a1e9f.gif" width="30"></h3>
 <p align="left"> 
