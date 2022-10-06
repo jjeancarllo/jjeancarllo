@@ -10,6 +10,13 @@
 - 👨🏻‍🎓 Currently studying at FATEC
 - 🤝🏻 Any help is welcome!
 
+</section>
+  <section align="left">
+    <a href="https://github.com/jjeancarllo">
+    <img  height="168em" src="https://github-readme-stats.vercel.app/api?username=jjeancarllo&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img  height="168em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjeancarllo&layout=compact&langs_count=7&theme=dark"/>
+  </section>
+
 <h3 align="left">Languages and Tools: <img src="https://i.pinimg.com/originals/5d/83/69/5d8369d65e9b8b2987122aac9d5a1e9f.gif" width="30"></h3>
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>	
