@@ -3,7 +3,7 @@
 
 💡 Here are some ideas about me:
 
-- 🎯 I’m currently focused on learning more about: HTML, CSS,  JavaScript, React Native and ReactJS
+- 🎯 I’m currently focused on: HTML, CSS, JavaScript, React Native, TailWind, NodeJS and ReactJS
 - 🖥️ I'm Front-end developer at (Focosp) Foco Solution Provider
 - 🙋🏻‍♂️ Available to receive help with software development
 - 🌍 Currently living in São Paulo, Brazil
