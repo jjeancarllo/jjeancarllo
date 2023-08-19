@@ -3,11 +3,11 @@
 
 💡 Here are some ideas about me:
 
-- 🎯 I’m currently focused on learning more about: HTML, CSS,  JavaScript, Flutter and ReactJS
-- 🖥️ I'm a trainee in software development at (Focosp) Foco Solution Provider
+- 🎯 I’m currently focused on learning more about: HTML, CSS,  JavaScript, React Native and ReactJS
+- 🖥️ I'm Front-end developer at (Focosp) Foco Solution Provider
 - 🙋🏻‍♂️ Available to receive help with software development
 - 🌍 Currently living in São Paulo, Brazil
-- 👨🏻‍🎓 Currently studying at FATEC
+- 👨🏻‍🎓 Currently studying at FATEC - Ferraz de Vasconcelos
 - 🤝🏻 Any help is welcome!
 
 </section>
