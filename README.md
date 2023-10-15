@@ -1,4 +1,4 @@
-### Hi there, I'm Jean Carlo
+### Hi there, I'm Jean Rocha
 <img src=https://www.emojiall.com/images/animations/joypixels/64px/man_raising_hand.gif>
 
 💡 Here are some ideas about me:
